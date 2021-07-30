@@ -32,7 +32,7 @@ h3{
   background-color: #F6F5F5;
   position: relative;
   padding-top: 100px;
-
+width:auto;
 
 }
 .profile{
@@ -162,7 +162,7 @@ p{
 
   width:25%;
   float:left;
-  margin-left: 40px;
+
   margin-right: 20px;
 }
 .Tic-tac-toe{
@@ -171,19 +171,21 @@ p{
   text-justify: inter-word;
   margin-bottom: 100px;
   line-height: 1.5;
+  margin-left: 70px;
+
 }
 .drum-kit{
   width:50%;
   text-align: justify;
   text-justify: inter-word;
-  margin-left: 635px;
+  margin-left: 480px;
     line-height: 1.5;
     margin-bottom: 100px;
 }
 .drum-kit-image{
 float:right;
 margin-left: 20px;
-margin-bottom: 100px;
+margin-bottom: 20px;
 }
 .linkedin-img{
   width: 43px;
@@ -199,8 +201,9 @@ margin-bottom: 100px;
 
   width:25%;
   float:left;
-  margin-left: 40px;
+
   margin-right: 20px;
+  margin-bottom:20px;
 }
 .Library-Management{
   width: 50%;
@@ -208,4 +211,5 @@ margin-bottom: 100px;
   text-justify: inter-word;
   margin-bottom: 100px;
   line-height: 1.5;
+  margin-left: 70px;
 }
