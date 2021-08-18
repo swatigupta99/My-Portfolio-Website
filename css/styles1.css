@@ -215,3 +215,27 @@ margin-right: 40px;
   line-height: 1.5;
   margin-left: 70px;
 }
+.Blogging-Site{
+  
+    width:50%;
+    text-align: justify;
+    text-justify: inter-word;
+    margin-left: 480px;
+    line-height: 1.5;
+    margin-bottom: 100px;
+    margin-right:40px;
+
+
+}
+.blog-icon-image{
+  float:right;
+margin-left: 20px;
+margin-bottom: 20px;
+margin-right: 40px;
+}
+.link-icon{
+  float:left;
+  height:40px;
+  width: 35px;
+  margin-right: 10px;
+}
